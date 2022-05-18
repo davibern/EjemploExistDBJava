@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libros>
+  <libro id="01">
+    <nombre>Don Quijote de La Mancha</nombre>
+    <autor>Miguel de Cervantes</autor>
+    <editorial>Santillana</editorial>    
+    <fechaPublicacion>1988</fechaPublicacion>
+    <ISBN>978-84-8061</ISBN>
+    <disponible>no</disponible>
+</libro>
+<libro id="02">
+    <nombre>Historias de Baltimore</nombre>
+    <autor>William Fisher</autor>
+    <editorial>Alfaguara</editorial>    
+    <fechaPublicacion>1991</fechaPublicacion>
+    <ISBN>978-84-1227</ISBN>
+    <disponible>no</disponible>
+</libro>
+<libro id="03">
+    <nombre>El principito</nombre>
+    <autor>Antoine Saint-Exupery</autor>
+    <editorial>Cátedra</editorial>    
+    <fechaPublicacion>2008</fechaPublicacion>
+    <ISBN>978-84-9102</ISBN>
+    <disponible>no</disponible>
+   </libro>
+<libro id="04">
+    <nombre>Fiesta</nombre>
+    <autor>Ernest Hemingway</autor>
+    <editorial>Malpaso</editorial>    
+    <fechaPublicacion>2012</fechaPublicacion>
+    <ISBN>978-84-5433</ISBN>
+    <disponible>si</disponible>
+</libro>
+<libro id="05">
+    <nombre>La historia interminable</nombre>
+    <autor>Pilar Laguardia Beltrán</autor>
+    <editorial>Círculo Rojo</editorial>    
+    <fechaPublicacion>2015</fechaPublicacion>
+    <ISBN>978-84-4930</ISBN>
+    <disponible>no</disponible>
+</libro>
+<libro id="06">
+    <nombre>Fortunata y Jacinta</nombre>
+    <autor>Benito Pérez Galdós</autor>
+    <editorial>Planeta</editorial>    
+    <fechaPublicacion>1998</fechaPublicacion>
+    <ISBN>978-84-6784</ISBN>
+    <disponible>no</disponible>
+</libro>
+<libro id="07">
+    <nombre>Romancero gitano</nombre>
+    <autor>Federico García Lorca</autor>
+    <editorial>Anagrama</editorial>    
+    <fechaPublicacion>2006</fechaPublicacion>
+    <ISBN>978-84-0658</ISBN>
+    <disponible>si</disponible>
+</libro>
+<libro id="08">
+    <nombre>La metamorfosis</nombre>
+    <autor>Franz Kafka</autor>
+    <editorial>Planeta</editorial>    
+    <fechaPublicacion>2017</fechaPublicacion>
+    <ISBN>978-84-2122</ISBN>
+    <disponible>si</disponible>
+</libro>  
+</libros>

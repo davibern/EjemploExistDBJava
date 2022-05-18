@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prestamos>
+  <prestamo id="01">
+    <codigoLibro>04</codigoLibro>
+    <codigoUsuario>03</codigoUsuario>
+    <fechaSalida>15/01/2020</fechaSalida>
+    <fechaDevolucion>15/02/2020</fechaDevolucion>
+  </prestamo>
+  <prestamo id="02">
+    <codigoLibro>01</codigoLibro>
+    <codigoUsuario>05</codigoUsuario>
+    <fechaSalida>15/01/2020</fechaSalida>
+    <fechaDevolucion>01/02/2020</fechaDevolucion>
+  </prestamo>
+  <prestamo id="03">
+    <codigoLibro>05</codigoLibro>
+    <codigoUsuario>05</codigoUsuario>
+    <fechaSalida>20/04/2020</fechaSalida>
+    <fechaDevolucion>15/05/2020</fechaDevolucion>
+  </prestamo>
+  <prestamo id="04">
+    <codigoLibro>03</codigoLibro>
+    <codigoUsuario>04</codigoUsuario>
+    <fechaSalida>05/04/2020</fechaSalida>
+    <fechaDevolucion>21/04/2020</fechaDevolucion>
+  </prestamo>
+  <prestamo id="05">
+    <codigoLibro>03</codigoLibro>
+    <codigoUsuario>01</codigoUsuario>
+    <fechaSalida>15/05/2020</fechaSalida>
+    <fechaDevolucion>30/05/2020</fechaDevolucion>
+  </prestamo>
+  <prestamo id="06">
+    <codigoLibro>04</codigoLibro>
+    <codigoUsuario>02</codigoUsuario>
+    <fechaSalida>16/02/2020</fechaSalida>
+    <fechaDevolucion>25/02/2020</fechaDevolucion>
+  </prestamo>
+  <prestamo id="07">
+    <codigoLibro>04</codigoLibro>
+    <codigoUsuario>04</codigoUsuario>
+    <fechaSalida>01/03/2020</fechaSalida>
+    <fechaDevolucion>15/03/2020</fechaDevolucion>
+  </prestamo>
+  <prestamo id="08">
+    <codigoLibro>07</codigoLibro>
+    <codigoUsuario>03</codigoUsuario>
+    <fechaSalida>10/01/2020</fechaSalida>
+    <fechaDevolucion>01/02/2020</fechaDevolucion>
+  </prestamo>
+  <prestamo id="09">
+    <codigoLibro>08</codigoLibro>
+    <codigoUsuario>06</codigoUsuario>
+    <fechaSalida>15/01/2020</fechaSalida>
+    <fechaDevolucion>01/02/2020</fechaDevolucion>
+  </prestamo>
+  <prestamo id="10">
+    <codigoLibro>08</codigoLibro>
+    <codigoUsuario>01</codigoUsuario>
+    <fechaSalida>01/05/2020</fechaSalida>
+    <fechaDevolucion>20/05/2020</fechaDevolucion>
+  </prestamo>
+  <prestamo id="11">
+    <codigoLibro>02</codigoLibro>
+    <codigoUsuario>03</codigoUsuario>
+    <fechaSalida>01/11/2019</fechaSalida>
+    <fechaDevolucion>20/11/2019</fechaDevolucion>
+  </prestamo>
+  <prestamo id="12">
+    <codigoLibro>07</codigoLibro>
+    <codigoUsuario>02</codigoUsuario>
+    <fechaSalida>15/12/2019</fechaSalida>
+    <fechaDevolucion>30/12/2019</fechaDevolucion>
+  </prestamo>
+</prestamos>

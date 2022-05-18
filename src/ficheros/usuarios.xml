@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usuarios>
+  <usuario id="01">
+        <nombre>Inés</nombre>
+        <apellidos>Marín Gil</apellidos>
+        <dni>77889966D</dni>
+        <direccion>Av. Gran Eje 36</direccion>
+        <telefono>666111222</telefono>
+        <fecha_nacimiento>15/01/2000</fecha_nacimiento>
+   </usuario>
+   <usuario id="02">
+        <nombre>José</nombre>
+        <apellidos>Corpas Fernández</apellidos>
+        <dni>77990055S</dni>
+        <direccion>Av. de la Cruz 200</direccion>
+        <telefono>666111333</telefono>
+        <fecha_nacimiento>15/12/1988</fecha_nacimiento>
+   </usuario>
+   <usuario id="03">
+        <nombre>Vanesa</nombre>
+        <apellidos>Martínez Sánchez</apellidos>
+        <dni>77112233L</dni>
+        <direccion>Gran Vía 88</direccion>
+        <telefono>666222555</telefono>
+        <fecha_nacimiento>10/10/2001</fecha_nacimiento>
+   </usuario>
+   <usuario id="04">
+        <nombre>Yolanda</nombre>
+        <apellidos>Palomares Castillo</apellidos>
+        <dni>77889966D</dni>
+        <direccion>Peseta 11</direccion>
+        <telefono>777111222</telefono>
+        <fecha_nacimiento>09/07/2005</fecha_nacimiento>
+   </usuario>
+   <usuario id="05">
+        <nombre>Eva</nombre>
+        <apellidos>Cabrera Portillo</apellidos>
+        <dni>77889966M</dni>
+        <direccion>Venus 45</direccion>
+        <telefono>666999222</telefono>
+        <fecha_nacimiento>19/03/2009</fecha_nacimiento>
+   </usuario>
+   <usuario id="06">
+        <nombre>Antonio</nombre>
+        <apellidos>Olmos Nieto</apellidos>
+        <dni>77334455R</dni>
+        <direccion>Pita 2</direccion>
+        <telefono>666005599</telefono>
+        <fecha_nacimiento>19/03/1985</fecha_nacimiento>
+   </usuario>
+</usuarios>
