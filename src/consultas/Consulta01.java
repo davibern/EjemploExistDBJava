@@ -8,6 +8,10 @@ import org.xmldb.api.base.ResourceIterator;
 import org.xmldb.api.base.ResourceSet;
 import org.xmldb.api.base.XMLDBException;
 import org.xmldb.api.modules.XPathQueryService;
+import static utils.Conexion.CONTROLLER;
+import static utils.Conexion.PASSWORD;
+import static utils.Conexion.SERVER;
+import static utils.Conexion.USER;
 
 /**
  *
@@ -16,10 +20,10 @@ import org.xmldb.api.modules.XPathQueryService;
  */
 public class Consulta01 {
     
-    private static final String CONTROLLER = "org.exist.xmldb.DatabaseImpl";
+    /*private static final String CONTROLLER = "org.exist.xmldb.DatabaseImpl";
     private static final String SERVER = "xmldb:exist://localhost:8080/exist/xmlrpc/db/biblioteca";
     private static final String USER = "admin";
-    private static final String PASSWORD = "";
+    private static final String PASSWORD = "";*/
     private static ResourceSet result;
     private static ResourceIterator iterator;
     private static XPathQueryService service;
