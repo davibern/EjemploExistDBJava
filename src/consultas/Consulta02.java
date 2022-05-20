@@ -1,6 +1,5 @@
 package consultas;
 
-import org.apache.logging.log4j.core.jmx.Server;
 import org.xmldb.api.DatabaseManager;
 import org.xmldb.api.base.Collection;
 import org.xmldb.api.base.Database;
