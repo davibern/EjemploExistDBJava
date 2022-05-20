@@ -8,10 +8,11 @@ import org.xmldb.api.base.ResourceIterator;
 import org.xmldb.api.base.ResourceSet;
 import org.xmldb.api.base.XMLDBException;
 import org.xmldb.api.modules.XPathQueryService;
-import static utils.Conexion.CONTROLLER;
-import static utils.Conexion.PASSWORD;
-import static utils.Conexion.SERVER;
-import static utils.Conexion.USER;
+import static utils.Utilidades.CONTROLLER;
+import static utils.Utilidades.PASSWORD;
+import static utils.Utilidades.SERVER;
+import static utils.Utilidades.USER;
+import static utils.Utilidades.mensaje;
 
 /**
  *
@@ -80,12 +81,5 @@ public class Consulta02 {
         
     }
     
-    private static String mensaje(String texto) {
-        StringBuilder sb = new StringBuilder();
-        sb.append("----------------------------------------------------------------\n")
-                .append(texto + "\n")
-                .append("----------------------------------------------------------------");
-        return sb.toString();
-    }
     
 }
